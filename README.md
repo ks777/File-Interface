@@ -1,8 +1,6 @@
 # File-Interface
 
 
-# Time-to-Detect-those-pesky-Mallocs-and-Frees
-
 ## Summary
 C application that creates, alters, and stores files into a standardized system. Created as a CS college course project.
 
